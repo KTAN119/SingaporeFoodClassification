@@ -1,0 +1,500 @@
+data/train/Bak Chor Mee/Bak Chor Mee(1570).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(663).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(226).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(970).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(584).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(1929).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(1576).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(1421).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(1018).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(650).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(430).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(1658).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(315).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(1205).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(1587).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(1530).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(4).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(1100).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(38).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(46).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(2278).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(66).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(1911).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(422).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(700).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(1371).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(1956).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(1728).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(2001).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(511).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(1657).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(2021).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(332).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(427).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(1572).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(503).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(1981).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(2216).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(1524).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(225).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(204).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(956).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(235).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(1537).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(28).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(2013).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(1813).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(362).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(738).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(1812).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(574).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(276).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(265).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(33).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(1998).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(1512).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(1885).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(370).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(1871).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(620).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(1751).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(1347).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(804).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(9).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(2068).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(710).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(1001).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(486).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(2136).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(122).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(1907).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(1754).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(727).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(871).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(828).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(1121).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(634).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(1162).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(80).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(1774).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(1200).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(1098).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(1928).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(629).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(1139).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(464).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(1494).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(1643).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(2071).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(2204).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(1322).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(872).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(1129).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(754).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(2067).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(306).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(484).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(1088).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(459).jpg	0
+data/train/Bak Chor Mee/Bak Chor Mee(1174).jpg	0
+data/train/Char Kway Teow/Char Kway Teow(1952).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(1718).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(1956).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(559).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(119).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(612).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(286).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(1527).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(769).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(779).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(228).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(711).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(207).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(1438).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(2039).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(52).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(1259).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(191).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(1260).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(602).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(584).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(703).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(1734).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(1419).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(1048).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(1002).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(265).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(922).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(626).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(1432).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(1730).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(965).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(1817).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(1702).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(1446).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(997).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(1464).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(42).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(1559).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(1798).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(1420).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(1680).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(1445).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(1893).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(917).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(1261).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(1023).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(953).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(1735).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(1860).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(2045).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(669).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(1884).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(264).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(455).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(1488).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(327).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(209).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(252).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(412).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(425).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(1995).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(1032).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(1449).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(456).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(936).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(213).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(1847).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(448).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(384).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(420).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(1785).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(77).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(199).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(1105).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(1925).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(446).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(853).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(675).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(702).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(16).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(1557).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(469).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(7).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(1690).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(512).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(877).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(1857).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(1472).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(1861).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(1439).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(689).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(829).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(136).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(1589).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(926).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(221).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(793).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(804).jpg	1
+data/train/Char Kway Teow/Char Kway Teow(1434).jpg	1
+data/train/Chicken Rice/Chicken rice(133).jpg	2
+data/train/Chicken Rice/Chicken rice(1620).jpg	2
+data/train/Chicken Rice/Chicken rice(394).jpg	2
+data/train/Chicken Rice/Chicken rice(574).jpg	2
+data/train/Chicken Rice/Chicken rice(122).jpg	2
+data/train/Chicken Rice/Chicken rice(906).jpg	2
+data/train/Chicken Rice/Chicken rice(928).jpg	2
+data/train/Chicken Rice/Chicken rice(314).jpg	2
+data/train/Chicken Rice/Chicken rice(1003).jpg	2
+data/train/Chicken Rice/Chicken rice(1423).jpg	2
+data/train/Chicken Rice/Chicken rice(435).jpg	2
+data/train/Chicken Rice/Chicken rice(1426).jpg	2
+data/train/Chicken Rice/Chicken rice(1089).jpg	2
+data/train/Chicken Rice/Chicken rice(1527).jpg	2
+data/train/Chicken Rice/Chicken rice(21).jpg	2
+data/train/Chicken Rice/Chicken rice(1029).jpg	2
+data/train/Chicken Rice/Chicken rice(1639).jpg	2
+data/train/Chicken Rice/Chicken rice(1136).jpg	2
+data/train/Chicken Rice/Chicken rice(896).jpg	2
+data/train/Chicken Rice/Chicken rice(1230).jpg	2
+data/train/Chicken Rice/Chicken rice(764).jpg	2
+data/train/Chicken Rice/Chicken rice(530).jpg	2
+data/train/Chicken Rice/Chicken rice(1717).jpg	2
+data/train/Chicken Rice/Chicken rice(44).jpg	2
+data/train/Chicken Rice/Chicken rice(531).jpg	2
+data/train/Chicken Rice/Chicken rice(1245).jpg	2
+data/train/Chicken Rice/Chicken rice(484).jpg	2
+data/train/Chicken Rice/Chicken rice(1509).jpg	2
+data/train/Chicken Rice/Chicken rice(1968).jpg	2
+data/train/Chicken Rice/Chicken rice(1657).jpg	2
+data/train/Chicken Rice/Chicken rice(365).jpg	2
+data/train/Chicken Rice/Chicken rice(1532).jpg	2
+data/train/Chicken Rice/Chicken rice(1488).jpg	2
+data/train/Chicken Rice/Chicken rice(1952).jpg	2
+data/train/Chicken Rice/Chicken rice(795).jpg	2
+data/train/Chicken Rice/Chicken rice(1529).jpg	2
+data/train/Chicken Rice/Chicken rice(1482).jpg	2
+data/train/Chicken Rice/Chicken rice(1197).jpg	2
+data/train/Chicken Rice/Chicken rice(636).jpg	2
+data/train/Chicken Rice/Chicken rice(189).jpg	2
+data/train/Chicken Rice/Chicken rice(873).jpg	2
+data/train/Chicken Rice/Chicken rice(227).jpg	2
+data/train/Chicken Rice/Chicken rice(619).jpg	2
+data/train/Chicken Rice/Chicken rice(67).jpg	2
+data/train/Chicken Rice/Chicken rice(765).jpg	2
+data/train/Chicken Rice/Chicken rice(1162).jpg	2
+data/train/Chicken Rice/Chicken rice(514).jpg	2
+data/train/Chicken Rice/Chicken rice(1031).jpg	2
+data/train/Chicken Rice/Chicken rice(387).jpg	2
+data/train/Chicken Rice/Chicken rice(2028).jpg	2
+data/train/Chicken Rice/Chicken rice(311).jpg	2
+data/train/Chicken Rice/Chicken rice(702).jpg	2
+data/train/Chicken Rice/Chicken rice(5).jpg	2
+data/train/Chicken Rice/Chicken rice(1043).jpg	2
+data/train/Chicken Rice/Chicken rice(1296).jpg	2
+data/train/Chicken Rice/Chicken rice(1618).jpg	2
+data/train/Chicken Rice/Chicken rice(516).jpg	2
+data/train/Chicken Rice/Chicken rice(142).jpg	2
+data/train/Chicken Rice/Chicken rice(529).jpg	2
+data/train/Chicken Rice/Chicken rice(1832).jpg	2
+data/train/Chicken Rice/Chicken rice(1564).jpg	2
+data/train/Chicken Rice/Chicken rice(1636).jpg	2
+data/train/Chicken Rice/Chicken rice(958).jpg	2
+data/train/Chicken Rice/Chicken rice(797).jpg	2
+data/train/Chicken Rice/Chicken rice(126).jpg	2
+data/train/Chicken Rice/Chicken rice(535).jpg	2
+data/train/Chicken Rice/Chicken rice(80).jpg	2
+data/train/Chicken Rice/Chicken rice(1220).jpg	2
+data/train/Chicken Rice/Chicken rice(517).jpg	2
+data/train/Chicken Rice/Chicken rice(812).jpg	2
+data/train/Chicken Rice/Chicken rice(710).jpg	2
+data/train/Chicken Rice/Chicken rice(1493).jpg	2
+data/train/Chicken Rice/Chicken rice(245).jpg	2
+data/train/Chicken Rice/Chicken rice(309).jpg	2
+data/train/Chicken Rice/Chicken rice(263).jpg	2
+data/train/Chicken Rice/Chicken rice(888).jpg	2
+data/train/Chicken Rice/Chicken rice(1916).jpg	2
+data/train/Chicken Rice/Chicken rice(140).jpg	2
+data/train/Chicken Rice/Chicken rice(161).jpg	2
+data/train/Chicken Rice/Chicken rice(1148).jpg	2
+data/train/Chicken Rice/Chicken rice(90).jpg	2
+data/train/Chicken Rice/Chicken rice(1419).jpg	2
+data/train/Chicken Rice/Chicken rice(777).jpg	2
+data/train/Chicken Rice/Chicken rice(1964).jpg	2
+data/train/Chicken Rice/Chicken rice(1900).jpg	2
+data/train/Chicken Rice/Chicken rice(709).jpg	2
+data/train/Chicken Rice/Chicken rice(346).jpg	2
+data/train/Chicken Rice/Chicken rice(66).jpg	2
+data/train/Chicken Rice/Chicken rice(139).jpg	2
+data/train/Chicken Rice/Chicken rice(2047).jpg	2
+data/train/Chicken Rice/Chicken rice(692).jpg	2
+data/train/Chicken Rice/Chicken rice(184).jpg	2
+data/train/Chicken Rice/Chicken rice(1829).jpg	2
+data/train/Chicken Rice/Chicken rice(1213).jpg	2
+data/train/Chicken Rice/Chicken rice(715).jpg	2
+data/train/Chicken Rice/Chicken rice(964).jpg	2
+data/train/Chicken Rice/Chicken rice(1450).jpg	2
+data/train/Chicken Rice/Chicken rice(2025).jpg	2
+data/train/Chicken Rice/Chicken rice(1171).jpg	2
+data/train/Chicken Rice/Chicken rice(610).jpg	2
+data/train/Satay/Satay(705).jpg	3
+data/train/Satay/Satay(1291).jpg	3
+data/train/Satay/Satay(306).jpg	3
+data/train/Satay/Satay(535).jpg	3
+data/train/Satay/Satay(2440).jpg	3
+data/train/Satay/Satay(1586).jpg	3
+data/train/Satay/Satay(1073).jpg	3
+data/train/Satay/Satay(491).jpg	3
+data/train/Satay/Satay(1256).jpg	3
+data/train/Satay/Satay(1933).jpg	3
+data/train/Satay/Satay(1080).jpg	3
+data/train/Satay/Satay(788).jpg	3
+data/train/Satay/Satay(2469).jpg	3
+data/train/Satay/Satay(1682).jpg	3
+data/train/Satay/Satay(970).jpg	3
+data/train/Satay/Satay(693).jpg	3
+data/train/Satay/Satay(2302).jpg	3
+data/train/Satay/Satay(892).jpg	3
+data/train/Satay/Satay(145).jpg	3
+data/train/Satay/Satay(841).jpg	3
+data/train/Satay/Satay(716).jpg	3
+data/train/Satay/Satay(1903).jpg	3
+data/train/Satay/Satay(194).jpg	3
+data/train/Satay/Satay(277).jpg	3
+data/train/Satay/Satay(2505).jpg	3
+data/train/Satay/Satay(1556).jpg	3
+data/train/Satay/Satay(725).jpg	3
+data/train/Satay/Satay(2498).jpg	3
+data/train/Satay/Satay(1548).jpg	3
+data/train/Satay/Satay(514).jpg	3
+data/train/Satay/Satay(2343).jpg	3
+data/train/Satay/Satay(214).jpg	3
+data/train/Satay/Satay(2410).jpg	3
+data/train/Satay/Satay(2573).jpg	3
+data/train/Satay/Satay(1675).jpg	3
+data/train/Satay/Satay(669).jpg	3
+data/train/Satay/Satay(1875).jpg	3
+data/train/Satay/Satay(2332).jpg	3
+data/train/Satay/Satay(763).jpg	3
+data/train/Satay/Satay(1828).jpg	3
+data/train/Satay/Satay(108).jpg	3
+data/train/Satay/Satay(2300).jpg	3
+data/train/Satay/Satay(792).jpg	3
+data/train/Satay/Satay(982).jpg	3
+data/train/Satay/Satay(157).jpg	3
+data/train/Satay/Satay(1377).jpg	3
+data/train/Satay/Satay(270).jpg	3
+data/train/Satay/Satay(1906).jpg	3
+data/train/Satay/Satay(470).jpg	3
+data/train/Satay/Satay(769).jpg	3
+data/train/Satay/Satay(1560).jpg	3
+data/train/Satay/Satay(656).jpg	3
+data/train/Satay/Satay(2503).jpg	3
+data/train/Satay/Satay(564).jpg	3
+data/train/Satay/Satay(67).jpg	3
+data/train/Satay/Satay(71).jpg	3
+data/train/Satay/Satay(2535).jpg	3
+data/train/Satay/Satay(2504).jpg	3
+data/train/Satay/Satay(1895).jpg	3
+data/train/Satay/Satay(2621).jpg	3
+data/train/Satay/Satay(802).jpg	3
+data/train/Satay/Satay(2600).jpg	3
+data/train/Satay/Satay(1716).jpg	3
+data/train/Satay/Satay(2584).jpg	3
+data/train/Satay/Satay(220).jpg	3
+data/train/Satay/Satay(207).jpg	3
+data/train/Satay/Satay(1611).jpg	3
+data/train/Satay/Satay(2610).jpg	3
+data/train/Satay/Satay(427).jpg	3
+data/train/Satay/Satay(273).jpg	3
+data/train/Satay/Satay(1921).jpg	3
+data/train/Satay/Satay(1669).jpg	3
+data/train/Satay/Satay(1207).jpg	3
+data/train/Satay/Satay(2321).jpg	3
+data/train/Satay/Satay(1773).jpg	3
+data/train/Satay/Satay(912).jpg	3
+data/train/Satay/Satay(618).jpg	3
+data/train/Satay/Satay(252).jpg	3
+data/train/Satay/Satay(1712).jpg	3
+data/train/Satay/Satay(1542).jpg	3
+data/train/Satay/Satay(2523).jpg	3
+data/train/Satay/Satay(1692).jpg	3
+data/train/Satay/Satay(1366).jpg	3
+data/train/Satay/Satay(381).jpg	3
+data/train/Satay/Satay(646).jpg	3
+data/train/Satay/Satay(1326).jpg	3
+data/train/Satay/Satay(793).jpg	3
+data/train/Satay/Satay(1671).jpg	3
+data/train/Satay/Satay(422).jpg	3
+data/train/Satay/Satay(1050).jpg	3
+data/train/Satay/Satay(453).jpg	3
+data/train/Satay/Satay(657).jpg	3
+data/train/Satay/Satay(919).jpg	3
+data/train/Satay/Satay(2078).jpg	3
+data/train/Satay/Satay(1767).jpg	3
+data/train/Satay/Satay(227).jpg	3
+data/train/Satay/Satay(1637).jpg	3
+data/train/Satay/Satay(1580).jpg	3
+data/train/Satay/Satay(1642).jpg	3
+data/train/Satay/Satay(520).jpg	3
+data/train/Oyster Omelette/Oyster Omelette(149).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(767).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(1736).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(476).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(1553).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(1125).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(1388).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(869).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(1838).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(1392).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(23).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(337).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(1454).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(1799).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(2179).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(1816).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(864).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(135).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(1377).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(270).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(1633).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(371).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(321).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(2055).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(238).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(1054).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(173).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(1253).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(739).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(458).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(1657).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(1823).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(1004).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(516).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(499).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(1551).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(81).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(155).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(7).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(1557).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(172).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(2098).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(475).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(1427).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(1761).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(1678).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(1893).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(1436).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(178).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(308).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(1399).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(1616).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(1352).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(11).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(2096).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(1360).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(704).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(757).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(496).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(355).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(1157).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(1403).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(144).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(578).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(1655).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(815).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(1018).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(1644).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(843).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(1375).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(562).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(780).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(795).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(189).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(1508).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(761).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(318).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(2068).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(1034).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(1582).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(1760).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(707).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(1613).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(2009).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(589).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(2027).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(215).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(1419).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(1513).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(468).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(1242).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(2102).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(489).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(2109).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(943).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(947).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(1693).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(1503).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(186).jpg	4
+data/train/Oyster Omelette/Oyster Omelette(297).jpg	4
