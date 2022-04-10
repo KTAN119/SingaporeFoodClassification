@@ -1,2 +1,5 @@
-/data/*/
+**/data/*/
+**/checkpoint/
+__pycache__/
+*.log
 model.py

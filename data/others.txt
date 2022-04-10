@@ -1,0 +1,525 @@
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(1814).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(583).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(1463).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(154).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(641).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(1543).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(1538).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(302).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(752).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(1319).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(2253).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(817).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(397).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(158).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(270).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(1053).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(353).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(1809).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(318).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(708).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(1876).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(1491).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(1671).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(342).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(1512).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(1263).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(746).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(1097).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(1011).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(608).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(568).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(1368).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(147).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(978).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(1430).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(1038).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(434).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(1181).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(474).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(1722).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(2341).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(152).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(10).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(645).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(156).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(115).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(420).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(1246).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(38).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(1233).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(1513).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(1669).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(843).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(1164).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(2003).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(2135).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(1878).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(237).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(1408).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(1858).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(878).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(2191).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(1299).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(754).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(2077).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(176).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(2290).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(120).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(11).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(99).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(1639).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(1764).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(65).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(1628).jpg	5
+data/test/Kaya Toast and Egg/Kaya Toast and Egg(1084).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(404).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(782).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(881).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(576).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(877).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(1076).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(1853).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(2053).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(650).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(1870).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(200).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(2188).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(415).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(639).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(2138).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(731).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(688).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(113).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(1493).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(1692).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(905).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(238).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(596).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(519).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(1569).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(852).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(1353).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(1587).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(1792).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(1795).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(98).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(1282).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(1945).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(1576).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(1842).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(281).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(1226).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(969).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(2200).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(1416).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(1008).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(38).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(1699).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(36).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(119).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(2031).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(808).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(82).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(1886).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(92).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(1590).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(684).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(1621).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(983).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(1755).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(2272).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(1830).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(1826).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(1906).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(344).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(160).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(222).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(925).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(1039).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(1578).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(1016).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(1305).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(369).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(260).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(1065).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(1228).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(468).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(922).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(1183).jpg	5
+data/test/Roast Meat Rice/Roast Meat Rice(361).jpg	5
+data/test/Wanton Mee/Wanton Mee(553).jpg	5
+data/test/Wanton Mee/Wanton Mee(2337).jpg	5
+data/test/Wanton Mee/Wanton Mee(963).jpg	5
+data/test/Wanton Mee/Wanton Mee(2429).jpg	5
+data/test/Wanton Mee/Wanton Mee(60).jpg	5
+data/test/Wanton Mee/Wanton Mee(2285).jpg	5
+data/test/Wanton Mee/Wanton Mee(1354).jpg	5
+data/test/Wanton Mee/Wanton Mee(2203).jpg	5
+data/test/Wanton Mee/Wanton Mee(1000).jpg	5
+data/test/Wanton Mee/Wanton Mee(279).jpg	5
+data/test/Wanton Mee/Wanton Mee(2606).jpg	5
+data/test/Wanton Mee/Wanton Mee(1352).jpg	5
+data/test/Wanton Mee/Wanton Mee(1452).jpg	5
+data/test/Wanton Mee/Wanton Mee(422).jpg	5
+data/test/Wanton Mee/Wanton Mee(1986).jpg	5
+data/test/Wanton Mee/Wanton Mee(2458).jpg	5
+data/test/Wanton Mee/Wanton Mee(1969).jpg	5
+data/test/Wanton Mee/Wanton Mee(716).jpg	5
+data/test/Wanton Mee/Wanton Mee(1864).jpg	5
+data/test/Wanton Mee/Wanton Mee(1099).jpg	5
+data/test/Wanton Mee/Wanton Mee(1076).jpg	5
+data/test/Wanton Mee/Wanton Mee(283).jpg	5
+data/test/Wanton Mee/Wanton Mee(1265).jpg	5
+data/test/Wanton Mee/Wanton Mee(1428).jpg	5
+data/test/Wanton Mee/Wanton Mee(1374).jpg	5
+data/test/Wanton Mee/Wanton Mee(520).jpg	5
+data/test/Wanton Mee/Wanton Mee(999).jpg	5
+data/test/Wanton Mee/Wanton Mee(658).jpg	5
+data/test/Wanton Mee/Wanton Mee(2479).jpg	5
+data/test/Wanton Mee/Wanton Mee(76).jpg	5
+data/test/Wanton Mee/Wanton Mee(2279).jpg	5
+data/test/Wanton Mee/Wanton Mee(1881).jpg	5
+data/test/Wanton Mee/Wanton Mee(56).jpg	5
+data/test/Wanton Mee/Wanton Mee(365).jpg	5
+data/test/Wanton Mee/Wanton Mee(137).jpg	5
+data/test/Wanton Mee/Wanton Mee(674).jpg	5
+data/test/Wanton Mee/Wanton Mee(1184).jpg	5
+data/test/Wanton Mee/Wanton Mee(2088).jpg	5
+data/test/Wanton Mee/Wanton Mee(352).jpg	5
+data/test/Wanton Mee/Wanton Mee(2199).jpg	5
+data/test/Wanton Mee/Wanton Mee(794).jpg	5
+data/test/Wanton Mee/Wanton Mee(1021).jpg	5
+data/test/Wanton Mee/Wanton Mee(2211).jpg	5
+data/test/Wanton Mee/Wanton Mee(2489).jpg	5
+data/test/Wanton Mee/Wanton Mee(67).jpg	5
+data/test/Wanton Mee/Wanton Mee(2020).jpg	5
+data/test/Wanton Mee/Wanton Mee(2443).jpg	5
+data/test/Wanton Mee/Wanton Mee(623).jpg	5
+data/test/Wanton Mee/Wanton Mee(2234).jpg	5
+data/test/Wanton Mee/Wanton Mee(2495).jpg	5
+data/test/Wanton Mee/Wanton Mee(1869).jpg	5
+data/test/Wanton Mee/Wanton Mee(691).jpg	5
+data/test/Wanton Mee/Wanton Mee(43).jpg	5
+data/test/Wanton Mee/Wanton Mee(300).jpg	5
+data/test/Wanton Mee/Wanton Mee(1511).jpg	5
+data/test/Wanton Mee/Wanton Mee(2275).jpg	5
+data/test/Wanton Mee/Wanton Mee(1867).jpg	5
+data/test/Wanton Mee/Wanton Mee(70).jpg	5
+data/test/Wanton Mee/Wanton Mee(2608).jpg	5
+data/test/Wanton Mee/Wanton Mee(22).jpg	5
+data/test/Wanton Mee/Wanton Mee(1239).jpg	5
+data/test/Wanton Mee/Wanton Mee(1203).jpg	5
+data/test/Wanton Mee/Wanton Mee(739).jpg	5
+data/test/Wanton Mee/Wanton Mee(240).jpg	5
+data/test/Wanton Mee/Wanton Mee(2193).jpg	5
+data/test/Wanton Mee/Wanton Mee(1123).jpg	5
+data/test/Wanton Mee/Wanton Mee(2043).jpg	5
+data/test/Wanton Mee/Wanton Mee(2310).jpg	5
+data/test/Wanton Mee/Wanton Mee(2117).jpg	5
+data/test/Wanton Mee/Wanton Mee(2339).jpg	5
+data/test/Wanton Mee/Wanton Mee(1962).jpg	5
+data/test/Wanton Mee/Wanton Mee(487).jpg	5
+data/test/Wanton Mee/Wanton Mee(1736).jpg	5
+data/test/Wanton Mee/Wanton Mee(31).jpg	5
+data/test/Wanton Mee/Wanton Mee(2439).jpg	5
+data/test/Laksa/Laksa(1530).jpg	5
+data/test/Laksa/Laksa(1754).jpg	5
+data/test/Laksa/Laksa(201).jpg	5
+data/test/Laksa/Laksa(773).jpg	5
+data/test/Laksa/Laksa(520).jpg	5
+data/test/Laksa/Laksa(165).jpg	5
+data/test/Laksa/Laksa(1036).jpg	5
+data/test/Laksa/Laksa(326).jpg	5
+data/test/Laksa/Laksa(1448).jpg	5
+data/test/Laksa/Laksa(436).jpg	5
+data/test/Laksa/Laksa(17).jpg	5
+data/test/Laksa/Laksa(805).jpg	5
+data/test/Laksa/Laksa(1822).jpg	5
+data/test/Laksa/Laksa(992).jpg	5
+data/test/Laksa/Laksa(549).jpg	5
+data/test/Laksa/Laksa(493).jpg	5
+data/test/Laksa/Laksa(1560).jpg	5
+data/test/Laksa/Laksa(1643).jpg	5
+data/test/Laksa/Laksa(1245).jpg	5
+data/test/Laksa/Laksa(997).jpg	5
+data/test/Laksa/Laksa(1032).jpg	5
+data/test/Laksa/Laksa(2051).jpg	5
+data/test/Laksa/Laksa(404).jpg	5
+data/test/Laksa/Laksa(1899).jpg	5
+data/test/Laksa/Laksa(1935).jpg	5
+data/test/Laksa/Laksa(21).jpg	5
+data/test/Laksa/Laksa(1644).jpg	5
+data/test/Laksa/Laksa(2240).jpg	5
+data/test/Laksa/Laksa(1751).jpg	5
+data/test/Laksa/Laksa(781).jpg	5
+data/test/Laksa/Laksa(1062).jpg	5
+data/test/Laksa/Laksa(2142).jpg	5
+data/test/Laksa/Laksa(1002).jpg	5
+data/test/Laksa/Laksa(2145).jpg	5
+data/test/Laksa/Laksa(1939).jpg	5
+data/test/Laksa/Laksa(266).jpg	5
+data/test/Laksa/Laksa(812).jpg	5
+data/test/Laksa/Laksa(1715).jpg	5
+data/test/Laksa/Laksa(229).jpg	5
+data/test/Laksa/Laksa(2119).jpg	5
+data/test/Laksa/Laksa(2034).jpg	5
+data/test/Laksa/Laksa(487).jpg	5
+data/test/Laksa/Laksa(626).jpg	5
+data/test/Laksa/Laksa(1541).jpg	5
+data/test/Laksa/Laksa(1616).jpg	5
+data/test/Laksa/Laksa(895).jpg	5
+data/test/Laksa/Laksa(468).jpg	5
+data/test/Laksa/Laksa(1591).jpg	5
+data/test/Laksa/Laksa(1922).jpg	5
+data/test/Laksa/Laksa(189).jpg	5
+data/test/Laksa/Laksa(225).jpg	5
+data/test/Laksa/Laksa(316).jpg	5
+data/test/Laksa/Laksa(743).jpg	5
+data/test/Laksa/Laksa(1897).jpg	5
+data/test/Laksa/Laksa(2098).jpg	5
+data/test/Laksa/Laksa(1479).jpg	5
+data/test/Laksa/Laksa(1875).jpg	5
+data/test/Laksa/Laksa(677).jpg	5
+data/test/Laksa/Laksa(187).jpg	5
+data/test/Laksa/Laksa(637).jpg	5
+data/test/Laksa/Laksa(819).jpg	5
+data/test/Laksa/Laksa(958).jpg	5
+data/test/Laksa/Laksa(48).jpg	5
+data/test/Laksa/Laksa(2233).jpg	5
+data/test/Laksa/Laksa(1078).jpg	5
+data/test/Laksa/Laksa(33).jpg	5
+data/test/Laksa/Laksa(42).jpg	5
+data/test/Laksa/Laksa(1151).jpg	5
+data/test/Laksa/Laksa(753).jpg	5
+data/test/Laksa/Laksa(858).jpg	5
+data/test/Laksa/Laksa(1817).jpg	5
+data/test/Laksa/Laksa(1539).jpg	5
+data/test/Laksa/Laksa(1567).jpg	5
+data/test/Laksa/Laksa(1928).jpg	5
+data/test/Laksa/Laksa(850).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(290).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(1625).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(1317).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(2350).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(1384).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(1525).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(2234).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(2144).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(915).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(1457).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(1205).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(1361).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(696).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(666).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(1522).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(1785).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(937).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(2121).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(1034).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(1357).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(1602).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(1569).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(315).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(61).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(2122).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(893).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(1420).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(2161).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(1793).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(1204).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(76).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(1449).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(167).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(29).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(327).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(1506).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(89).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(676).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(1014).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(1669).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(746).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(1284).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(912).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(1229).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(1040).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(1119).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(2347).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(488).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(2092).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(1467).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(778).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(91).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(1355).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(2131).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(1857).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(2089).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(1376).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(1392).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(1410).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(1396).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(115).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(2045).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(336).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(1233).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(2031).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(1673).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(695).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(2333).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(156).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(1539).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(1585).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(1033).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(643).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(316).jpg	5
+data/test/Hokkien Prawn Mee/Hokkien Prawn Mee(773).jpg	5
+data/test/Roti Prata/Roti Prata(706).jpg	5
+data/test/Roti Prata/Roti Prata(1920).jpg	5
+data/test/Roti Prata/Roti Prata(1708).jpg	5
+data/test/Roti Prata/Roti Prata(492).jpg	5
+data/test/Roti Prata/Roti Prata(1125).jpg	5
+data/test/Roti Prata/Roti Prata(2058).jpg	5
+data/test/Roti Prata/Roti Prata(1745).jpg	5
+data/test/Roti Prata/Roti Prata(838).jpg	5
+data/test/Roti Prata/Roti Prata(736).jpg	5
+data/test/Roti Prata/Roti Prata(1062).jpg	5
+data/test/Roti Prata/Roti Prata(91).jpg	5
+data/test/Roti Prata/Roti Prata(1724).jpg	5
+data/test/Roti Prata/Roti Prata(1566).jpg	5
+data/test/Roti Prata/Roti Prata(1202).jpg	5
+data/test/Roti Prata/Roti Prata(889).jpg	5
+data/test/Roti Prata/Roti Prata(410).jpg	5
+data/test/Roti Prata/Roti Prata(1424).jpg	5
+data/test/Roti Prata/Roti Prata(1672).jpg	5
+data/test/Roti Prata/Roti Prata(2170).jpg	5
+data/test/Roti Prata/Roti Prata(355).jpg	5
+data/test/Roti Prata/Roti Prata(124).jpg	5
+data/test/Roti Prata/Roti Prata(1537).jpg	5
+data/test/Roti Prata/Roti Prata(365).jpg	5
+data/test/Roti Prata/Roti Prata(802).jpg	5
+data/test/Roti Prata/Roti Prata(1300).jpg	5
+data/test/Roti Prata/Roti Prata(1809).jpg	5
+data/test/Roti Prata/Roti Prata(1378).jpg	5
+data/test/Roti Prata/Roti Prata(1333).jpg	5
+data/test/Roti Prata/Roti Prata(1255).jpg	5
+data/test/Roti Prata/Roti Prata(322).jpg	5
+data/test/Roti Prata/Roti Prata(2067).jpg	5
+data/test/Roti Prata/Roti Prata(2092).jpg	5
+data/test/Roti Prata/Roti Prata(1583).jpg	5
+data/test/Roti Prata/Roti Prata(681).jpg	5
+data/test/Roti Prata/Roti Prata(625).jpg	5
+data/test/Roti Prata/Roti Prata(209).jpg	5
+data/test/Roti Prata/Roti Prata(259).jpg	5
+data/test/Roti Prata/Roti Prata(961).jpg	5
+data/test/Roti Prata/Roti Prata(527).jpg	5
+data/test/Roti Prata/Roti Prata(1001).jpg	5
+data/test/Roti Prata/Roti Prata(102).jpg	5
+data/test/Roti Prata/Roti Prata(2238).jpg	5
+data/test/Roti Prata/Roti Prata(901).jpg	5
+data/test/Roti Prata/Roti Prata(236).jpg	5
+data/test/Roti Prata/Roti Prata(1186).jpg	5
+data/test/Roti Prata/Roti Prata(2099).jpg	5
+data/test/Roti Prata/Roti Prata(994).jpg	5
+data/test/Roti Prata/Roti Prata(437).jpg	5
+data/test/Roti Prata/Roti Prata(1911).jpg	5
+data/test/Roti Prata/Roti Prata(449).jpg	5
+data/test/Roti Prata/Roti Prata(111).jpg	5
+data/test/Roti Prata/Roti Prata(530).jpg	5
+data/test/Roti Prata/Roti Prata(1414).jpg	5
+data/test/Roti Prata/Roti Prata(1413).jpg	5
+data/test/Roti Prata/Roti Prata(433).jpg	5
+data/test/Roti Prata/Roti Prata(731).jpg	5
+data/test/Roti Prata/Roti Prata(864).jpg	5
+data/test/Roti Prata/Roti Prata(845).jpg	5
+data/test/Roti Prata/Roti Prata(1933).jpg	5
+data/test/Roti Prata/Roti Prata(2044).jpg	5
+data/test/Roti Prata/Roti Prata(1101).jpg	5
+data/test/Roti Prata/Roti Prata(389).jpg	5
+data/test/Roti Prata/Roti Prata(2125).jpg	5
+data/test/Roti Prata/Roti Prata(35).jpg	5
+data/test/Roti Prata/Roti Prata(1591).jpg	5
+data/test/Roti Prata/Roti Prata(72).jpg	5
+data/test/Roti Prata/Roti Prata(1483).jpg	5
+data/test/Roti Prata/Roti Prata(1859).jpg	5
+data/test/Roti Prata/Roti Prata(1598).jpg	5
+data/test/Roti Prata/Roti Prata(287).jpg	5
+data/test/Roti Prata/Roti Prata(1422).jpg	5
+data/test/Roti Prata/Roti Prata(1852).jpg	5
+data/test/Roti Prata/Roti Prata(61).jpg	5
+data/test/Roti Prata/Roti Prata(1807).jpg	5
+data/test/Roti Prata/Roti Prata(589).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(1353).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(1144).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(211).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(1419).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(209).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(251).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(227).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(512).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(1205).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(1795).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(1659).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(168).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(1166).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(38).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(1531).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(920).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(695).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(366).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(293).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(2068).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(102).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(2303).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(2107).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(739).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(316).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(2101).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(1667).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(607).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(885).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(2040).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(443).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(1354).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(2386).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(1602).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(232).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(134).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(244).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(679).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(1068).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(1185).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(1850).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(190).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(1273).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(121).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(820).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(747).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(861).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(2072).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(895).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(2219).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(2069).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(2073).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(752).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(807).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(955).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(1517).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(280).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(2352).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(184).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(1516).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(488).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(1723).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(1685).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(1813).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(930).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(959).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(1743).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(833).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(1239).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(770).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(440).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(597).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(164).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(1289).jpg	5
+data/test/Nasi Lemak/Nasi Lemak(320).jpg	5

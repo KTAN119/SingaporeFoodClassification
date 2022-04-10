@@ -1,0 +1,178 @@
+data/val/Bak Chor Mee/Bak Chor Mee(128).jpg	0
+data/val/Bak Chor Mee/Bak Chor Mee(1196).jpg	0
+data/val/Bak Chor Mee/Bak Chor Mee(1340).jpg	0
+data/val/Bak Chor Mee/Bak Chor Mee(1128).jpg	0
+data/val/Bak Chor Mee/Bak Chor Mee(1075).jpg	0
+data/val/Bak Chor Mee/Bak Chor Mee(1025).jpg	0
+data/val/Bak Chor Mee/Bak Chor Mee(1220).jpg	0
+data/val/Bak Chor Mee/Bak Chor Mee(1320).jpg	0
+data/val/Bak Chor Mee/Bak Chor Mee(1361).jpg	0
+data/val/Bak Chor Mee/Bak Chor Mee(1218).jpg	0
+data/val/Bak Chor Mee/Bak Chor Mee(1137).jpg	0
+data/val/Bak Chor Mee/Bak Chor Mee(1281).jpg	0
+data/val/Bak Chor Mee/Bak Chor Mee(1072).jpg	0
+data/val/Bak Chor Mee/Bak Chor Mee(1140).jpg	0
+data/val/Bak Chor Mee/Bak Chor Mee(1182).jpg	0
+data/val/Bak Chor Mee/Bak Chor Mee(1360).jpg	0
+data/val/Bak Chor Mee/Bak Chor Mee(1222).jpg	0
+data/val/Bak Chor Mee/Bak Chor Mee(1242).jpg	0
+data/val/Bak Chor Mee/Bak Chor Mee(1145).jpg	0
+data/val/Bak Chor Mee/Bak Chor Mee(1261).jpg	0
+data/val/Bak Chor Mee/Bak Chor Mee(1055).jpg	0
+data/val/Bak Chor Mee/Bak Chor Mee(121).jpg	0
+data/val/Bak Chor Mee/Bak Chor Mee(1122).jpg	0
+data/val/Bak Chor Mee/Bak Chor Mee(1059).jpg	0
+data/val/Bak Chor Mee/Bak Chor Mee(1030).jpg	0
+data/val/Bak Chor Mee/Bak Chor Mee(1045).jpg	0
+data/val/Bak Chor Mee/Bak Chor Mee(1188).jpg	0
+data/val/Bak Chor Mee/Bak Chor Mee(114).jpg	0
+data/val/Bak Chor Mee/Bak Chor Mee(1049).jpg	0
+data/val/Bak Chor Mee/Bak Chor Mee(1231).jpg	0
+data/val/Char Kway Teow/Char Kway Teow(1005).jpg	1
+data/val/Char Kway Teow/Char Kway Teow(1102).jpg	1
+data/val/Char Kway Teow/Char Kway Teow(1215).jpg	1
+data/val/Char Kway Teow/Char Kway Teow(1263).jpg	1
+data/val/Char Kway Teow/Char Kway Teow(113).jpg	1
+data/val/Char Kway Teow/Char Kway Teow(1074).jpg	1
+data/val/Char Kway Teow/Char Kway Teow(1285).jpg	1
+data/val/Char Kway Teow/Char Kway Teow(109).jpg	1
+data/val/Char Kway Teow/Char Kway Teow(1067).jpg	1
+data/val/Char Kway Teow/Char Kway Teow(110).jpg	1
+data/val/Char Kway Teow/Char Kway Teow(1061).jpg	1
+data/val/Char Kway Teow/Char Kway Teow(1021).jpg	1
+data/val/Char Kway Teow/Char Kway Teow(111).jpg	1
+data/val/Char Kway Teow/Char Kway Teow(1206).jpg	1
+data/val/Char Kway Teow/Char Kway Teow(118).jpg	1
+data/val/Char Kway Teow/Char Kway Teow(1345).jpg	1
+data/val/Char Kway Teow/Char Kway Teow(1232).jpg	1
+data/val/Char Kway Teow/Char Kway Teow(1227).jpg	1
+data/val/Char Kway Teow/Char Kway Teow(1010).jpg	1
+data/val/Char Kway Teow/Char Kway Teow(1120).jpg	1
+data/val/Char Kway Teow/Char Kway Teow(1147).jpg	1
+data/val/Char Kway Teow/Char Kway Teow(1043).jpg	1
+data/val/Char Kway Teow/Char Kway Teow(1352).jpg	1
+data/val/Char Kway Teow/Char Kway Teow(120).jpg	1
+data/val/Char Kway Teow/Char Kway Teow(1311).jpg	1
+data/val/Char Kway Teow/Char Kway Teow(1084).jpg	1
+data/val/Char Kway Teow/Char Kway Teow(1270).jpg	1
+data/val/Char Kway Teow/Char Kway Teow(1111).jpg	1
+data/val/Char Kway Teow/Char Kway Teow(100).jpg	1
+data/val/Char Kway Teow/Char Kway Teow(1017).jpg	1
+data/val/Chicken Rice/Chicken rice(1134).jpg	2
+data/val/Chicken Rice/Chicken rice(109).jpg	2
+data/val/Chicken Rice/Chicken rice(1146).jpg	2
+data/val/Chicken Rice/Chicken rice(1028).jpg	2
+data/val/Chicken Rice/Chicken rice(1142).jpg	2
+data/val/Chicken Rice/Chicken rice(1000).jpg	2
+data/val/Chicken Rice/Chicken rice(1018).jpg	2
+data/val/Chicken Rice/Chicken rice(1046).jpg	2
+data/val/Chicken Rice/Chicken rice(1174).jpg	2
+data/val/Chicken Rice/Chicken rice(1157).jpg	2
+data/val/Chicken Rice/Chicken rice(1114).jpg	2
+data/val/Chicken Rice/Chicken rice(1138).jpg	2
+data/val/Chicken Rice/Chicken rice(1141).jpg	2
+data/val/Chicken Rice/Chicken rice(1025).jpg	2
+data/val/Chicken Rice/Chicken rice(1124).jpg	2
+data/val/Chicken Rice/Chicken rice(10).jpg	2
+data/val/Chicken Rice/Chicken rice(113).jpg	2
+data/val/Chicken Rice/Chicken rice(1058).jpg	2
+data/val/Chicken Rice/Chicken rice(1064).jpg	2
+data/val/Chicken Rice/Chicken rice(1040).jpg	2
+data/val/Chicken Rice/Chicken rice(1067).jpg	2
+data/val/Chicken Rice/Chicken rice(1068).jpg	2
+data/val/Chicken Rice/Chicken rice(1104).jpg	2
+data/val/Chicken Rice/Chicken rice(1119).jpg	2
+data/val/Chicken Rice/Chicken rice(1147).jpg	2
+data/val/Chicken Rice/Chicken rice(1069).jpg	2
+data/val/Chicken Rice/Chicken rice(1117).jpg	2
+data/val/Chicken Rice/Chicken rice(1165).jpg	2
+data/val/Chicken Rice/Chicken rice(1038).jpg	2
+data/val/Chicken Rice/Chicken rice(1077).jpg	2
+data/val/Satay/Satay(113).jpg	3
+data/val/Satay/Satay(1318).jpg	3
+data/val/Satay/Satay(1001).jpg	3
+data/val/Satay/Satay(133).jpg	3
+data/val/Satay/Satay(1183).jpg	3
+data/val/Satay/Satay(104).jpg	3
+data/val/Satay/Satay(116).jpg	3
+data/val/Satay/Satay(1006).jpg	3
+data/val/Satay/Satay(124).jpg	3
+data/val/Satay/Satay(1114).jpg	3
+data/val/Satay/Satay(1130).jpg	3
+data/val/Satay/Satay(1313).jpg	3
+data/val/Satay/Satay(1375).jpg	3
+data/val/Satay/Satay(119).jpg	3
+data/val/Satay/Satay(1343).jpg	3
+data/val/Satay/Satay(13).jpg	3
+data/val/Satay/Satay(1292).jpg	3
+data/val/Satay/Satay(1322).jpg	3
+data/val/Satay/Satay(1078).jpg	3
+data/val/Satay/Satay(1135).jpg	3
+data/val/Satay/Satay(1223).jpg	3
+data/val/Satay/Satay(106).jpg	3
+data/val/Satay/Satay(1007).jpg	3
+data/val/Satay/Satay(1067).jpg	3
+data/val/Satay/Satay(1011).jpg	3
+data/val/Satay/Satay(1042).jpg	3
+data/val/Satay/Satay(1190).jpg	3
+data/val/Satay/Satay(1224).jpg	3
+data/val/Satay/Satay(1137).jpg	3
+data/val/Satay/Satay(1166).jpg	3
+data/val/Oyster Omelette/Oyster Omelette(1092).jpg	4
+data/val/Oyster Omelette/Oyster Omelette(1093).jpg	4
+data/val/Oyster Omelette/Oyster Omelette(1120).jpg	4
+data/val/Oyster Omelette/Oyster Omelette(1140).jpg	4
+data/val/Oyster Omelette/Oyster Omelette(1322).jpg	4
+data/val/Oyster Omelette/Oyster Omelette(1348).jpg	4
+data/val/Oyster Omelette/Oyster Omelette(118).jpg	4
+data/val/Oyster Omelette/Oyster Omelette(1172).jpg	4
+data/val/Oyster Omelette/Oyster Omelette(111).jpg	4
+data/val/Oyster Omelette/Oyster Omelette(1179).jpg	4
+data/val/Oyster Omelette/Oyster Omelette(1213).jpg	4
+data/val/Oyster Omelette/Oyster Omelette(1248).jpg	4
+data/val/Oyster Omelette/Oyster Omelette(1323).jpg	4
+data/val/Oyster Omelette/Oyster Omelette(106).jpg	4
+data/val/Oyster Omelette/Oyster Omelette(123).jpg	4
+data/val/Oyster Omelette/Oyster Omelette(1373).jpg	4
+data/val/Oyster Omelette/Oyster Omelette(1024).jpg	4
+data/val/Oyster Omelette/Oyster Omelette(1040).jpg	4
+data/val/Oyster Omelette/Oyster Omelette(124).jpg	4
+data/val/Oyster Omelette/Oyster Omelette(1337).jpg	4
+data/val/Oyster Omelette/Oyster Omelette(1057).jpg	4
+data/val/Oyster Omelette/Oyster Omelette(128).jpg	4
+data/val/Oyster Omelette/Oyster Omelette(105).jpg	4
+data/val/Oyster Omelette/Oyster Omelette(10).jpg	4
+data/val/Oyster Omelette/Oyster Omelette(1113).jpg	4
+data/val/Oyster Omelette/Oyster Omelette(1117).jpg	4
+data/val/Oyster Omelette/Oyster Omelette(1095).jpg	4
+data/val/Oyster Omelette/Oyster Omelette(1354).jpg	4
+data/val/Oyster Omelette/Oyster Omelette(1112).jpg	4
+data/val/Oyster Omelette/Oyster Omelette(1216).jpg	4
+data/val/Roti Prata/Roti Prata(1219).jpg	5
+data/val/Roti Prata/Roti Prata(1364).jpg	5
+data/val/Roti Prata/Roti Prata(1387).jpg	5
+data/val/Roti Prata/Roti Prata(1337).jpg	5
+data/val/Laksa/Laksa(1116).jpg	5
+data/val/Laksa/Laksa(1122).jpg	5
+data/val/Laksa/Laksa(1065).jpg	5
+data/val/Laksa/Laksa(111).jpg	5
+data/val/Kaya Toast and Egg/Kaya Toast and Egg(1143).jpg	5
+data/val/Kaya Toast and Egg/Kaya Toast and Egg(1059).jpg	5
+data/val/Kaya Toast and Egg/Kaya Toast and Egg(1106).jpg	5
+data/val/Kaya Toast and Egg/Kaya Toast and Egg(1037).jpg	5
+data/val/Hokkien Prawn Mee/Hokkien Prawn Mee(1235).jpg	5
+data/val/Hokkien Prawn Mee/Hokkien Prawn Mee(1101).jpg	5
+data/val/Hokkien Prawn Mee/Hokkien Prawn Mee(10).jpg	5
+data/val/Hokkien Prawn Mee/Hokkien Prawn Mee(136).jpg	5
+data/val/Wanton Mee/Wanton Mee(1029).jpg	5
+data/val/Wanton Mee/Wanton Mee(1105).jpg	5
+data/val/Wanton Mee/Wanton Mee(1006).jpg	5
+data/val/Wanton Mee/Wanton Mee(1136).jpg	5
+data/val/Roast Meat Rice/Roast Meat Rice(1077).jpg	5
+data/val/Roast Meat Rice/Roast Meat Rice(1171).jpg	5
+data/val/Roast Meat Rice/Roast Meat Rice(120).jpg	5
+data/val/Roast Meat Rice/Roast Meat Rice(1199).jpg	5
+data/val/Nasi Lemak/Nasi Lemak(1086).jpg	5
+data/val/Nasi Lemak/Nasi Lemak(1159).jpg	5
+data/val/Nasi Lemak/Nasi Lemak(1063).jpg	5
+data/val/Nasi Lemak/Nasi Lemak(105).jpg	5
