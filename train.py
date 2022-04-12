@@ -65,20 +65,22 @@ val_dl = DataLoader(val_ds, batch_size=32, shuffle=True, num_workers=8)
 test_dl = DataLoader(test_ds, batch_size=32, shuffle=True, num_workers=8)
 
 num_classes = 5
-train_model = models.resnet50(pretrained=True)
-train_model.fc = nn.Linear(2048, num_classes)
+train_model = models.vgg19(pretrained=True)
+# train_model.fc = nn.Linear(512, num_classes)
+train_model.classifier[6] = nn.Linear(4096, num_classes)
 
-output_dir = 'checkpoint'
+model_str = 'mobilenetv2'
+output_dir = 'checkpoint_' + model_str
 if output_dir and not os.path.exists(output_dir):
     os.makedirs(output_dir)
 device = 'cuda' if torch.cuda.is_available() else 'cpu'
 ce_loss = loss.CrossEntropyLabelSmooth(num_classes = num_classes, device = device)
-optimizer = torch.optim.Adam(train_model.parameters(), lr=0.001)
+optimizer = torch.optim.Adam(train_model.parameters(), lr=0.0001)
 scheduler = torch.optim.lr_scheduler.StepLR(optimizer, step_size=20, gamma=0.1)
 
 for param in train_model.parameters():
     param.requires_grad = False
-for param in train_model.fc.parameters():
+for param in train_model.classifier.parameters():
     param.requires_grad = True
 for i in range(5):
     train_model.train()
@@ -120,8 +122,8 @@ for ep in range(epoch):
     
     scheduler.step()
         
-    if ep % 10 == 0:
-        torch.save(train_model.state_dict(), output_dir + '/resnet50_' + str(ep) + '.pth')
+    # if ep % 10 == 0:
+    #     torch.save(train_model.state_dict(), output_dir + '/' + model_str + '_' + str(ep) + '.pth')
         
     accuracy = evaluate(output_list, ground_truth_list)
     print(f'Epoch[{ep}] training accuracy: {accuracy} '
@@ -152,5 +154,5 @@ for ep in range(epoch):
             highest_acc['epoch'] = ep
         print(f'Accuracy: {accuracy}    Epoch:{ep}')
 
-torch.save(train_model.state_dict(), output_dir + '/resnet50_' + 'final' + '.pth')
+torch.save(train_model.state_dict(), output_dir + '/' + model_str + '_' + 'final' + '.pth')
 print('highest_acc: {}  epoch: {}'.format(highest_acc['accuracy'], highest_acc['epoch']))
