@@ -104,5 +104,5 @@ with open("data/others.txt", "w") as f:
     for category in other_categories:
         img_dir = os.path.join(root_dir, category)
         images = list(filter(lambda x: not x.startswith("."), os.listdir(img_dir)))
-        for img in images[:75]:
+        for img in images[:143]:
             f.write(root_dir + "/" + os.path.join(category, img) + "\t" + str(5) + "\n")

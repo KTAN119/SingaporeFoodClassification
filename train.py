@@ -47,16 +47,18 @@ def get_model(model_name, num_classes):
     if model_name == "resnet50":
         model = models.resnet50(pretrained=True)
         model.fc = nn.Linear(2048, num_classes)
-        return model
+    elif model_name == "resnet34":
+        model = models.resnet34(pretrained=True)
+        model.fc = nn.Linear(512, num_classes)
     elif model_name == "vgg16":
         model = models.vgg16(pretrained=True)
         model.classifier[6] = nn.Linear(4096, num_classes)
-        return model
+    return model
 
 
 def main(args):
     model_name = args.model_name
-    num_classes = 5
+    num_classes = 6
     train_model = get_model(model_name, num_classes)
 
     transforms_train = transforms.Compose(
@@ -80,18 +82,18 @@ def main(args):
             transforms.Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225]),
         ]
     )
-    train_ds = FoodDataset("./data/train.txt", transform=transforms_train)
-    val_ds = FoodDataset("./data/val.txt", transform=transforms_test)
-    test_ds = FoodDataset("./data/test.txt", transform=transforms_test)
-    # train_ds = FoodDataset("./data/train-6.txt", transform=transforms_train)
-    # val_ds = FoodDataset("./data/val-6.txt", transform=transforms_test)
-    # test_ds = FoodDataset("./data/test-6.txt", transform=transforms_test)
+    # train_ds = FoodDataset("./data/train.txt", transform=transforms_train)
+    # val_ds = FoodDataset("./data/val.txt", transform=transforms_test)
+    # test_ds = FoodDataset("./data/test.txt", transform=transforms_test)
+    train_ds = FoodDataset("./data/train-6.txt", transform=transforms_train)
+    val_ds = FoodDataset("./data/val-6.txt", transform=transforms_test)
+    test_ds = FoodDataset("./data/test-6.txt", transform=transforms_test)
 
     train_dl = DataLoader(train_ds, batch_size=32, shuffle=True, num_workers=8)
     val_dl = DataLoader(val_ds, batch_size=32, shuffle=True, num_workers=8)
     test_dl = DataLoader(test_ds, batch_size=32, shuffle=True, num_workers=8)
 
-    output_dir = "checkpoint/{}".format(model_name)
+    output_dir = "checkpoint/{}-6".format(model_name)
     if output_dir and not os.path.exists(output_dir):
         os.makedirs(output_dir)
 
@@ -101,7 +103,8 @@ def main(args):
     results["val_loss"] = list()
     results["val_acc"] = list()
 
-    device = "cuda" if torch.cuda.is_available() else "cpu"
+    cuda_num = 2
+    device = "cuda:{}".format(cuda_num) if torch.cuda.is_available() else "cpu"
     ce_loss = CrossEntropyLabelSmooth(num_classes=num_classes, device=device)
     # ce_loss = nn.CrossEntropyLoss(reduction="sum")
     optimizer = torch.optim.Adam(train_model.parameters(), lr=0.0001)
